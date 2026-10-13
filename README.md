@@ -20,25 +20,6 @@
 
 </div>
 
-```
-                                                                                  _   __,----'~~~~~~~~~`-----.__
-                                                                          .  .    `//====-_             ___,-' `
-                                                           -.            \_|// .   /||\\  `~~~~`---.___./
-                                                      ______-==.       _-~o~  \/    |||  \\           _,'`
-                                                __,--'   ,=='||\=_    ;_--~/_-'|-   |`\   \\        ,'
-                                            _-'        '    |  \\`.   '-'~7  /-   /  ||   `\.     /
-                                         .'    //// ||     |   \\ \_    /  /-   /   ||      \   /
-                                        / ____  O-O--=     |     \\.`-_/  /|- _/   ,||       \ /
-                                       ,-'     ( ^ _/\_ --_ \     `==-/  `| \'--===-'       _/`
-                                               /\~-\/  \   `-|      /|    )-'\~'      _,--~'
-                                              /|`/ _ \_ \    '-~~\_/ |    |   `\_   ,~             /\
-                                             / | : U_/  /         /  \     \__   \/~               `\__
-                                             \(__:__ \_/      _,-' _/'\ ,-'~____-'`-/                 ``===\
-                                               =@=====       ((->/'    \|||' `.     ~`-/ ,                _||
-                                              |       |                 \_     ~\      `^---|__i__i__\--~'_/
-                                             /   |   |                 __-^-_    `)  \-.______________,-~'
-```
-
 ---
 
 ## 👨‍💻 About Me
@@ -61,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhidroid&theme=great-gatsby&show_icons=true" alt="Dhidroid's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhidroid&layout=compact&theme=great-gatsby" alt="Most used languages" width="350px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhidroid&layout=compact&theme=great-gatsby" alt="Most used languages" width="360px" />
 </p>
 
 ## 🌐 Connect
