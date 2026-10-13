@@ -25,8 +25,6 @@
 ## 👨‍💻 About Me
 
 - 📱 React Native & full-stack developer at **Natobotics Technology Pvt. Ltd.**
-- 🏢 Building enterprise SaaS / ERP products
-- 🤝 Internship program coordinator & mentor
 - 📍 Based in Chennai, India
 
 ## 🛠️ Tech Stack
@@ -42,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhidroid&theme=great-gatsby&show_icons=true" alt="Dhidroid's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhidroid&layout=compact&theme=great-gatsby" alt="Most used languages" width="360px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhidroid&layout=compact&theme=great-gatsby" alt="Most used languages" width="355px" />
 </p>
 
 ## 🌐 Connect
