@@ -1,20 +1,6 @@
 <div align="center">
 
 ```
-                \||/
-                |  @___oo
-      /\  /\   / (__,,,,|
-     ) /^\) ^\/ _)
-     )   /^\/   _)
-     )   _ /  / _)
- /\  )/\/ ||  | )_)
-<  >      |(,,) )__)
- ||      /    \)___)\
- | \____(      )___) )___
-  \______(_______;;; __;;;
-```
-
-```
 ██╗░░██╗███████╗██╗░░░██╗  ████████╗██╗░░██╗███████╗██████╗░███████╗
 ██║░░██║██╔════╝╚██╗░██╔╝  ╚══██╔══╝██║░░██║██╔════╝██╔══██╗██╔════╝
 ███████║█████╗░░░╚████╔╝░  ░░░██║░░░███████║█████╗░░██████╔╝█████╗░░
@@ -75,7 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhidroid&theme=great-gatsby&show_icons=true" alt="Dhidroid's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhidroid&layout=compact&theme=great-gatsby" alt="Most used languages" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhidroid&layout=compact&theme=great-gatsby" alt="Most used languages" width="350px" />
 </p>
 
 ## 🌐 Connect
@@ -84,5 +70,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhidroid--rndev-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhidroid-rndev)
 
 ---
-
-<sub>ASCII template credit: [hxrii](https://github.com/hxrii) · Last edited: 13/10/2026</sub>
